@@ -16,7 +16,7 @@ env:
   REPO_URL: https://github.com/vb1980/mtk_lede
   REPO_BRANCH: mtk
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: configs/cmcc_mw1.config
+  CONFIG_FILE: config/cmcc_mw1.config
   DIY_P1_SH: script/diy-part1.sh
   DIY_P2_SH: script/diy-part2_cmccmw1.sh
   UPLOAD_BIN_DIR: true
