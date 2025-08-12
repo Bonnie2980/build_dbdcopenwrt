@@ -19,7 +19,7 @@ env:
   CONFIG_FILE: config/cmcc_mw1.config
   DIY_P1_SH: script/diy-part1.sh
   DIY_P2_SH: script/diy-part2_cmccmw1.sh
-  UPLOAD_BIN_DIR: false
+  UPLOAD_BIN_DIR: true
   UPLOAD_FIRMWARE: true
   TZ: Asia/Shanghai
 
